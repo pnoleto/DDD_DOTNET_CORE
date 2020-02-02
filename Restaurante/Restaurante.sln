@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restaurante.Servicos.api", "Restaurante.Servicos.api\Restaurante.Servicos.api.csproj", "{637EFC9C-7ADA-46F2-B3CF-BE7A22FD2075}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Restaurante.Servicos.api", "Restaurante.Servicos.api\Restaurante.Servicos.api.csproj", "{637EFC9C-7ADA-46F2-B3CF-BE7A22FD2075}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 - Servicos", "02 - Servicos", "{D6C29D19-642A-4A78-B28F-37EDAA611FBC}"
 EndProject
@@ -15,13 +15,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 - Dominio", "04 - Domini
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05 - Infra", "05 - Infra", "{D7285A66-6ACA-4481-9468-5CCCEFAA0D31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restaurante.Aplicacao", "Restaurante.Aplicacao\Restaurante.Aplicacao.csproj", "{A8033E0C-C50D-442D-BA88-42E4EE37C900}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Restaurante.Aplicacao", "Restaurante.Aplicacao\Restaurante.Aplicacao.csproj", "{A8033E0C-C50D-442D-BA88-42E4EE37C900}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restaurante.Dominio", "Restaurante.Library\Restaurante.Dominio.csproj", "{AA6C6CB7-0F2D-4451-922B-F32C513AA260}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Restaurante.Dominio", "Restaurante.Library\Restaurante.Dominio.csproj", "{AA6C6CB7-0F2D-4451-922B-F32C513AA260}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restaurante.Data", "Restaurante.Data\Restaurante.Data.csproj", "{BBC7EC5E-7F8D-4F7F-837B-87B0E8502077}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Restaurante.Data", "Restaurante.Data\Restaurante.Data.csproj", "{BBC7EC5E-7F8D-4F7F-837B-87B0E8502077}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restaurante.IOC", "Restaurante.IOC\Restaurante.IOC.csproj", "{6BFEF64B-D4E3-4EDE-8158-8CE99A262D6B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Restaurante.IOC", "Restaurante.IOC\Restaurante.IOC.csproj", "{6BFEF64B-D4E3-4EDE-8158-8CE99A262D6B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
